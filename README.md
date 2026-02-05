@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Community](https://img.shields.io/badge/Community-Standards-blue.svg)](./CONTRIBUTING.md)
 
-**Local-Brain-Search** is a "God-Tier" Python utility that indexes your local folders (Markdown, PDF, TXT) and allows you to perform natural language queries against your personal notes—**100% offline.**
+**Local-Brain-Search** is a Python utility that indexes your local folders (Markdown, PDF, TXT) and allows you to perform natural language queries against your personal notes—**100% offline.**
 
 [Setup Instructions](#-setup) • [Features](#-features) • [Contributing](#-contributing)
 
