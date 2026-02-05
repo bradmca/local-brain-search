@@ -1,0 +1,5 @@
+Review of latest research papers.
+The transformers architecture has revolutionized NLP.
+Attention is all you need.
+This document contains key insights about large language models.
+One specific detail: The meeting with the external vendors happened on 2023-11-15.

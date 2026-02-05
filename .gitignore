@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+local_brain_db/
+.env
+.DS_Store
