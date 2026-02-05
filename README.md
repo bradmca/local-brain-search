@@ -4,7 +4,6 @@
 
 ### *Your personal second brain, powered by Local RAG.*
 
-[![Python CI](https://github.com/USER_REPLACE/local-brain-search/actions/workflows/python-ci.yml/badge.svg)](https://github.com/USER_REPLACE/local-brain-search/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Community](https://img.shields.io/badge/Community-Standards-blue.svg)](./CONTRIBUTING.md)
 
