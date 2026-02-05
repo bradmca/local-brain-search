@@ -68,6 +68,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-<div align="center">
-  <sub>Built with ❤️ for researchers, students, and life-long learners.</sub>
-</div>
+⭐ If this project helps you, please give it a star!
